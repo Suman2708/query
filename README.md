@@ -26,7 +26,7 @@ er-queue-manager/ ├── client.html # Client interface to view real-time upd
 ### Step 1: Clone the repo
 
 For installation, run these commands in bash or cli
-git clone https://github.com/your-username/er-queue-manager.git
+git clone https://github.com/Suman2708/er-queue-manager.git
 cd er-queue-manager
 
 ### Step 2: Install dependencies
